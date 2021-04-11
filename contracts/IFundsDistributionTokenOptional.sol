@@ -1,6 +1,6 @@
 pragma solidity ^0.5.2;
 
-import "openzeppelin-solidity/contracts/token/ERC20/IERC20.sol";
+import "import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v2.5.0/contracts/token/ERC20/IERC20.sol";";
 
 
 interface IFundsDistributionTokenOptional {
